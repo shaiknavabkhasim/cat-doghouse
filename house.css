@@ -1,0 +1,53 @@
+body{
+  background-image: url(./evergreen-2025158_1280.webp);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1{
+  text-align: center;
+  color:black;
+}
+#main-container{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+  margin-top: 380px;
+}
+#triangle1{
+height: 50px;
+width: 0px;
+margin: 10 auto 0 auto;
+border-style:solid ;
+border-width:0 80 80 80px;
+border-color:transparent transparent orange transparent ;
+}
+#square1{
+  width: 100px;
+  height: 100px;
+  margin-left: 25px;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(238, 231, 231);
+}
+#cat{
+  width: 100px;
+}
+#triangle2{
+height: 50px;
+width: 0px;
+margin: 10 auto 0 auto;
+border-style:solid ;
+border-width:0 100 120 100px;
+border-color:transparent transparent orange transparent ;
+}
+#square2{
+  width: 120px;
+  height: 120px;
+  margin-left:35px;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(243, 237, 237);
+}
+#dog{
+  width: 100px;
+}
